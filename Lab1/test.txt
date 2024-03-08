@@ -1,0 +1,15 @@
+method main(args) : int
+var a : int, b : array [1, 2, 3] of int , c : str;
+begin
+  if a >= b then c := a; else c := 0;
+  while (true) do 
+  begin
+    repeat a := b - c;
+    while a >= b;
+    break;
+  end
+
+  call(expr1, expr2);
+  indexer [e1, e2];
+end
+

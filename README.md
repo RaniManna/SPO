@@ -1,2 +1,3 @@
 # SPO
-System software labs
+System software labs ITMO
+Thank you for taking the time to review my work.

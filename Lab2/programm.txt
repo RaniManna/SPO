@@ -1,0 +1,27 @@
+method test(args) : int
+var a : int, b : int , c : int;
+begin
+    f1();
+    while j >= 1 do begin
+    while j >= 3 do begin
+        f2();
+        if a >= b then
+            f3();
+        else begin
+            f4();
+            while x =< y do begin
+                f5();
+                f6();
+            end
+            f7();
+            while i == j do
+                f8();
+
+            f9();
+        end
+        f10();
+        f11();
+    end
+    end
+    f12();
+end
